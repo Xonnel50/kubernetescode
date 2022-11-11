@@ -3,4 +3,4 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'This is the Day to Give Thanks!!!'
+    return 'This is the Day to Give Love!!!'
